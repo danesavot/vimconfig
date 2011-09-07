@@ -1,0 +1,12 @@
+Install new plugin: (Add this to .vimrc)
+
+  - from original repos on github
+    Bundle 'username/reponame'
+    Ex: Bundle 'tpope/vim-fugitive'
+
+  - from vim-scripts repos (http://vim-scripts.org/vim/scripts.html)
+    Bundle 'pluginname'
+    Ex: Bundle 'FuzzyFinder'
+
+  - from other repos
+    Bundle 'git://git.wincent.com/command-t.git'
